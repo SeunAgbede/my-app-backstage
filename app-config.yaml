@@ -87,6 +87,21 @@ catalog:
       target: ../../examples/template/template.yaml
       rules:
         - allow: [Template]
+    
+    - type: file
+      target: ../../laravel-example/template/template.yaml
+      rules:
+        - allow: [Template]
+    
+    - type: file
+      target: ../../test-docs-template/template.yaml
+      rules:
+        - allow: [Template]
+
+    - type: file
+      target: ../../spring-template/template.yaml
+      rules:
+        - allow: [Template]
 
     # Local example organizational data
     - type: file

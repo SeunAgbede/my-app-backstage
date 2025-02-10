@@ -8,3 +8,6 @@ To start the app, run:
 yarn install
 yarn dev
 ```
+
+Good [docs](https://backstage.spotify.com/learn/onboarding-software-to-backstage/setting-up-software-templates/7-create-component-backstage/) to follow for templates
+
